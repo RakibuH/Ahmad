@@ -1,6 +1,15 @@
 1.  git config --global user.name"Md.Rakibul Hasan"
 2.  git config --global user.name"rakibhasan0807@gmail.com"
 3.  git init
-4.  git add .
+4.  git status
+5.  git add .
+6.  git commit -m "message"
+7.  git branch -M main
+8.  git remote add origin https://github.com/RakibuH/Ahmad.git
+9.  git push -u origin main
+10. git pull origin main https://github.com/RakibuH/Ahmad.git
+
+
+
 
          
